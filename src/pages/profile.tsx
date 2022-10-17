@@ -108,7 +108,6 @@ const  Profile:React.FC=()=> {
                 <div className="text-center" style={{"marginTop":"5rem"}}>
                     <img className="  mt-5" style={{"maxWidth":"50%"}}   src={process.env.PUBLIC_URL+"/images/user-not-found.png"}></img>
                     <h1>Please enter a valid username</h1>
-                    <div>this is the token {process.env.REACT_APP_GITHUB_TOKEN}</div>
                 </div>
             ) }
         </div>
