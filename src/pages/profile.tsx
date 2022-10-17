@@ -101,7 +101,7 @@ const  Profile:React.FC=()=> {
                 </div > 
                 <div className=" col-lg-8 col-md-12 col-12 d-flex flex-wrap justify-content-center"  >
                     {repos.length>0?
-                    <Repositories  repositories={repos}></Repositories>:(<div>no repos</div>)}
+                    <Repositories  repositories={repos}></Repositories>:(<div><h1>No repositories ...</h1></div>)}
                 </div>
                 
             </div>:(
