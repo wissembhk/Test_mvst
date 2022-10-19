@@ -1,7 +1,7 @@
 # Github Mirror App with  React TypeScript
 
 This project is a simple usage of Github api V4 which is built using GraphQl .
-To try it you can either visit : https://github-mirror-test.herokuapp.com/
+To try it you can either visit : https://github-mirror-test.herokuapp.com/ ( if you are using chrome it will show you a security issue but don't worry it's just because I'm using a free version of Heroku that don't provide you an SSL )
 or you can clone this repo  and follow the next steps to run it correctly
 
 ## Steps to Run the project locally
