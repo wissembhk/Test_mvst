@@ -29,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Feedback
 
-I would really wants to thanks MVST. team for this test because it was my first time to face two of my weak points which are working
+I would really want to thank MVST. team for this test because it was my first time to face two of my weak points which are working
 with graphQL (this test was my first experience) and React Ts ( I was always using Js with React and Ts with angular )
 So this test represented an opportunity for me to try new things.
 
